@@ -1,0 +1,7 @@
+Step 3: Install solarized color theme
+In the Terminal.app you have a few options of color schemes that you can choose from. We are going to install the Solarized Dark and Solarized Light themes for some human eye friendly color combinations
+
+Go to http://ethanschoonover.com/solarized in your browser
+Download the the latest version http://ethanschoonover.com/solarized/files/solarized.zip.
+Unzip the package and locate the osx-terminal.app-colors-solarized folder within the extracted folder.
+Double click on Solarized Dark ansi.terminal and Solarized Light ansi.terminal
